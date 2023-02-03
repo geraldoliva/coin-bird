@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CoinBird</string>
+    <string name="info">The innocent bird needs to reach 200 points in order to escape from enemies and reach its nest. Can you help the bird in this challenging task?</string>
+    <string name="player_bird">Player Bird</string>
+    <string name="tap_to_play_game">Tap to Play Game</string>
+    <string name="zero">0</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="no_mercy">No Mercy</string>
+    <string name="heart_image">Heart image</string>
+    <string name="coin_image">Coin Image</string>
+    <string name="volume_on_image">Volume On Image</string>
+    <string name="bird">Bird</string>
+    <string name="enemy_bird_1">Enemy Bird 1</string>
+    <string name="enemy1">Enemy1</string>
+    <string name="enemy_bird_2">Enemy Bird 2</string>
+    <string name="enemy2">Enemy2</string>
+    <string name="enemy_bird_3">Enemy Bird 3</string>
+    <string name="enemy3">Enemy3</string>
+    <string name="_10_points">10 Points</string>
+    <string name="start_game">Start Game</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="play_again">Play Again</string>
+    <string name="highest_score_200">Highest Score: 200</string>
+    <string name="your_score_50">Your Score: 50</string>
+</resources>
